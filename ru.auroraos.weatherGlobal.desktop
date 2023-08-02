@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.weatherGlobal
+Exec=/usr/bin/ru.auroraos.weatherGlobal
+Name=Global Weather
+Name[ru]=Глобальная Погода
+
+[X-Application]
+Permissions=Internet;Location;UserDirs
+OrganizationName=ru.auroraos
+ApplicationName=weatherGlobal
+ExecDBus=/usr/bin/ru.auroraos.weatherGlobal
